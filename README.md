@@ -9,18 +9,6 @@ Sou interessado em:
 * ⚙️ Shell Script
 ---
 
-# 📊 Estatísticas
-
-```md
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoaoR090&show_icons=true&theme=tokyonight)
-```
-
-```md
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoR090&layout=compact&theme=tokyonight)
-```
-
----
-
 <!--
 **JoaoR090/joaoR090** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
