@@ -7,17 +7,16 @@ Sou interessado em:
 * 🐧 Linux
 * 💻 Programação
 * ⚙️ Shell Script
-* 
 ---
 
 # 📊 Estatísticas
 
 ```md
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaoR090&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoaoR090&show_icons=true&theme=tokyonight)
 ```
 
 ```md
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoR090&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoR090&layout=compact&theme=tokyonight)
 ```
 
 ---
