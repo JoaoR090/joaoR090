@@ -74,24 +74,39 @@
 <br>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JoaoR090&show_icons=true&theme=github_dark&locale=pt-br&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JoaoR090&layout=compact&theme=github_dark&locale=pt-br&langs_count=10" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=JoaoR090&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00599C&icon_color=00599C&text_color=C9D1D9&locale=pt-br">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=JoaoR090&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=FFFFFF&title_color=00599C&icon_color=00599C&text_color=24292F&locale=pt-br">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=JoaoR090&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00599C&icon_color=00599C&text_color=C9D1D9&locale=pt-br" />
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoR090&layout=compact&langs_count=10&hide_border=true&bg_color=0D1117&title_color=00599C&text_color=C9D1D9&locale=pt-br">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoR090&layout=compact&langs_count=10&hide_border=true&bg_color=FFFFFF&title_color=00599C&text_color=24292F&locale=pt-br">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoR090&layout=compact&langs_count=10&hide_border=true&bg_color=0D1117&title_color=00599C&text_color=C9D1D9&locale=pt-br" />
+  </picture>
 </p>
 
-<p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=JoaoR090&theme=dark&locale=pt_BR" />
-</p>
+<br>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JoaoR090&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=JoaoR090&hide_border=true&background=0D1117&ring=00599C&fire=00599C&currStreakLabel=00599C&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=JoaoR090&hide_border=true&background=FFFFFF&ring=00599C&fire=00599C&currStreakLabel=00599C&sideLabels=24292F&currStreakNum=24292F&sideNums=24292F&dates=57606A">
+    <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoR090&hide_border=true&background=0D1117&ring=00599C&fire=00599C&currStreakLabel=00599C&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" />
+  </picture>
 </p>
 
 ---
 
-### 📈 Atividade
+### 🏆 Conquistas
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoaoR090&theme=github-compact&hide_border=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=JoaoR090&theme=darkhub&no-frame=true&no-bg=true&margin-w=5&column=7">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=JoaoR090&theme=flat&no-frame=true&no-bg=true&margin-w=5&column=7">
+    <img src="https://github-profile-trophy.vercel.app/?username=JoaoR090&theme=darkhub&no-frame=true&no-bg=true&margin-w=5&column=7" />
+  </picture>
 </p>
 
 ---
