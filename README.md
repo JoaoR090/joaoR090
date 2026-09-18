@@ -54,15 +54,10 @@
 * 🧠 Arquitetura de computadores
 * ⚙️ Sistemas e software de baixo nível
 * 🔧 Compiladores
-* 🧩 Engenharia de software
 * 🌐 Desenvolvimento Web
 * 🎨 Desenvolvimento Frontend
 * ⚛️ React e aplicações web
 * 🎮 Desenvolvimento de jogos
-* 🤖 Inteligência Artificial
-* 🔐 Segurança da informação
-* 🗄️ Bancos de dados
-* 🐳 DevOps e infraestrutura
 * 🛠️ Ferramentas de desenvolvimento
 * 📚 Computação e tecnologia em geral
 
