@@ -77,24 +77,27 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=JoaoR090&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00599C&icon_color=00599C&text_color=C9D1D9&locale=pt-br">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=JoaoR090&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=FFFFFF&title_color=00599C&icon_color=00599C&text_color=24292F&locale=pt-br">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=JoaoR090&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00599C&icon_color=00599C&text_color=C9D1D9&locale=pt-br" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=JoaoR090&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00599C&icon_color=00599C&text_color=C9D1D9&locale=pt-br" />
   </picture>
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoR090&layout=compact&langs_count=10&hide_border=true&bg_color=0D1117&title_color=00599C&text_color=C9D1D9&locale=pt-br">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoR090&layout=compact&langs_count=10&hide_border=true&bg_color=FFFFFF&title_color=00599C&text_color=24292F&locale=pt-br">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoR090&layout=compact&langs_count=10&hide_border=true&bg_color=0D1117&title_color=00599C&text_color=C9D1D9&locale=pt-br" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoR090&layout=compact&langs_count=10&hide_border=true&bg_color=0D1117&title_color=00599C&text_color=C9D1D9&locale=pt-br" />
   </picture>
 </p>
 
-<br>
+---
+
+### 📌 Detalhes do Perfil
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=JoaoR090&hide_border=true&background=0D1117&ring=00599C&fire=00599C&currStreakLabel=00599C&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=JoaoR090&hide_border=true&background=FFFFFF&ring=00599C&fire=00599C&currStreakLabel=00599C&sideLabels=24292F&currStreakNum=24292F&sideNums=24292F&dates=57606A">
-    <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoR090&hide_border=true&background=0D1117&ring=00599C&fire=00599C&currStreakLabel=00599C&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" />
-  </picture>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoaoR090&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoaoR090&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JoaoR090&theme=github_dark" />
 </p>
 
 ---
