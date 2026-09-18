@@ -67,14 +67,6 @@
 
 ### 📊 Estatísticas no GitHub
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoaoR090/JoaoR090/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoaoR090/JoaoR090/output/github-contribution-grid-snake.svg">
-  <img alt="github snake animation" src="https://raw.githubusercontent.com/JoaoR090/JoaoR090/output/github-contribution-grid-snake.svg">
-</picture>
-
-<br>
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoaoR090&theme=github_dark" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JoaoR090&theme=github_dark&utcOffset=-3" />
@@ -87,27 +79,6 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoaoR090&theme=github_dark" />
-</p>
-
----
-
-### 📌 Detalhes do Perfil
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoaoR090&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoaoR090&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JoaoR090&theme=github_dark" />
-</p>
-
----
-
-### 🏆 Conquistas
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JoaoR090&theme=darkhub&no-frame=true&no-bg=true&margin-w=5&column=7" />
 </p>
 
 ---
