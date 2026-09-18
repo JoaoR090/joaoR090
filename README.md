@@ -13,25 +13,58 @@
 # João Ricardo Zulato Reberti
 
 🎓 **Ciência da Computação** na UTFPR (6º Período)
-
 🛠️ Focado em **Desenvolvimento C/C++ (Sistemas / Baixo Nível)**
-
 🐧 Entusiasta do ecossistema **Linux**, arquitetura de sistemas e programação de baixo nível.
 
 ---
 
 ### 🧰 Linguagens & Tecnologias
 
+#### 💻 Linguagens
+
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge\&logo=c\&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge\&logo=rust\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge\&logo=typescript\&logoColor=white)
 ![GDScript](https://img.shields.io/badge/GDScript-%23478CBF.svg?style=for-the-badge\&logo=godot-engine\&logoColor=white)
+![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge\&logo=gnu-bash\&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge\&logo=next.js\&logoColor=white)
+
+#### ⚙️ Ferramentas & Tecnologias
+
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge\&logo=linux\&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
+![Makefile](https://img.shields.io/badge/Makefile-%23000000.svg?style=for-the-badge\&logo=gnu\&logoColor=white)
+![GCC](https://img.shields.io/badge/GCC-%23A42E2B.svg?style=for-the-badge\&logo=gnu\&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge\&logo=node.js\&logoColor=white)
+![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge\&logo=react\&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge\&logo=next.js\&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-%23478CBF.svg?style=for-the-badge\&logo=godot-engine\&logoColor=white)
+
+---
+
+### 🎯 Áreas de Interesse
+
+* 💻 C/C++ e programação de baixo nível
+* 🦀 Rust
+* 🐧 Linux e sistemas Unix
+* 🖥️ Sistemas operacionais
+* 🧠 Arquitetura de computadores
+* ⚙️ Sistemas e software de baixo nível
+* 🔧 Compiladores
+* 🧩 Engenharia de software
+* 🌐 Desenvolvimento Web
+* 🎨 Desenvolvimento Frontend
+* ⚛️ React e aplicações web
+* 🎮 Desenvolvimento de jogos
+* 🤖 Inteligência Artificial
+* 🔐 Segurança da informação
+* 🗄️ Bancos de dados
+* 🐳 DevOps e infraestrutura
+* 🛠️ Ferramentas de desenvolvimento
+* 📚 Computação e tecnologia em geral
 
 ---
 
@@ -43,19 +76,27 @@
   <img alt="github snake animation" src="https://raw.githubusercontent.com/JoaoR090/JoaoR090/output/github-contribution-grid-snake.svg">
 </picture>
 
----
+<br>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=JoaoR090&show_icons=true&theme=dark&locale=pt-br">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=JoaoR090&show_icons=true&theme=light&locale=pt-br">
-    <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JoaoR090&show_icons=true&theme=github_dark&locale=pt-br" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JoaoR090&layout=compact&theme=dark&locale=pt-br">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JoaoR090&layout=compact&theme=light&locale=pt-br">
-    <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JoaoR090&layout=compact&theme=github_dark&locale=pt-br" />
-  </picture>
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JoaoR090&show_icons=true&theme=github_dark&locale=pt-br&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JoaoR090&layout=compact&theme=github_dark&locale=pt-br&langs_count=10" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://streak-stats.demolab.com?user=JoaoR090&theme=dark&locale=pt_BR" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JoaoR090&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" />
+</p>
+
+---
+
+### 📈 Atividade
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoaoR090&theme=github-compact&hide_border=true" />
 </p>
 
 ---
