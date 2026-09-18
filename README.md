@@ -13,7 +13,9 @@
 # João Ricardo Zulato Reberti
 
 🎓 **Ciência da Computação** na UTFPR (6º Período)
+
 🛠️ Focado em **Desenvolvimento C/C++ (Sistemas / Baixo Nível)**
+
 🐧 Entusiasta do ecossistema **Linux**, arquitetura de sistemas e programação de baixo nível.
 
 ---
