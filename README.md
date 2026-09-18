@@ -13,7 +13,9 @@
 # João Ricardo Zulato Reberti
 
 🎓 **Ciência da Computação** na UTFPR (6º Período)
+
 🛠️ Focado em **Desenvolvimento C/C++ (Sistemas / Baixo Nível)**
+
 🐧 Entusiasta do ecossistema **Linux**, arquitetura de sistemas e programação de baixo nível.
 
 ---
@@ -74,17 +76,17 @@
 <br>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=JoaoR090&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00599C&icon_color=00599C&text_color=C9D1D9&locale=pt-br">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=JoaoR090&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=FFFFFF&title_color=00599C&icon_color=00599C&text_color=24292F&locale=pt-br">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=JoaoR090&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00599C&icon_color=00599C&text_color=C9D1D9&locale=pt-br" />
-  </picture>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoaoR090&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JoaoR090&theme=github_dark&utcOffset=-3" />
+</p>
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoR090&layout=compact&langs_count=10&hide_border=true&bg_color=0D1117&title_color=00599C&text_color=C9D1D9&locale=pt-br">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoR090&layout=compact&langs_count=10&hide_border=true&bg_color=FFFFFF&title_color=00599C&text_color=24292F&locale=pt-br">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoR090&layout=compact&langs_count=10&hide_border=true&bg_color=0D1117&title_color=00599C&text_color=C9D1D9&locale=pt-br" />
-  </picture>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoaoR090&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JoaoR090&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoaoR090&theme=github_dark" />
 </p>
 
 ---
@@ -105,11 +107,7 @@
 ### 🏆 Conquistas
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=JoaoR090&theme=darkhub&no-frame=true&no-bg=true&margin-w=5&column=7">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=JoaoR090&theme=flat&no-frame=true&no-bg=true&margin-w=5&column=7">
-    <img src="https://github-profile-trophy.vercel.app/?username=JoaoR090&theme=darkhub&no-frame=true&no-bg=true&margin-w=5&column=7" />
-  </picture>
+  <img src="https://github-profile-trophy.vercel.app/?username=JoaoR090&theme=darkhub&no-frame=true&no-bg=true&margin-w=5&column=7" />
 </p>
 
 ---
