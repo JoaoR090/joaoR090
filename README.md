@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00599C&center=true&vCenter=true&width=550&lines=Hello%2C+World!+%F0%9F%8C%90;Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%40+UTFPR;Desenvolvedor+C%2B%2B+%7C+Java+Backend" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00599C&center=true&vCenter=true&width=550&lines=Hello%2C+World!+%F0%9F%8C%90;Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%40+UTFPR;Desenvolvedor+C%2B%2B+%7C" alt="Typing SVG" />
 </div>
 
 # João Ricardo Zulato Reberti
