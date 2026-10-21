@@ -50,7 +50,6 @@
 ### 🎯 Áreas de Interesse
 
 * 💻 C/C++ e programação de baixo nível
-* 🦀 Rust
 * 🐧 Linux e sistemas Unix
 * 🖥️ Sistemas operacionais
 * 🧠 Arquitetura de computadores
