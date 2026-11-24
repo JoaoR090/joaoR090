@@ -66,6 +66,8 @@
 
 ### 📊 Estatísticas no GitHub
 
+<img align="center" style="margin-right:25px;" src="https://github-readme-stats.vercel.app/api?username=lucasmarcao"/>
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoaoR090&theme=github_dark" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JoaoR090&theme=github_dark" />
